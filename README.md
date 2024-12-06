@@ -2,7 +2,7 @@
 
 A Python script that demonstrates how to scrape content from behind a login wall using Selenium WebDriver and leverage OpenAI's GPT model to extract specific information from the scraped content.
 
-Sponsored by [scrapewebapp.com](https://scrapewebapp.com) - Turn Websites into LLM-Ready Data.
+Sponsored by [datafuel.dev](https://datafuel.dev) - Turn Websites into LLM-Ready Data.
 
 ## Features
 
